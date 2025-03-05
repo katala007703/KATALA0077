@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "6ZIDHCra#b3ZL5bCmU8quQwfl5en7Wo2eNgd_ydARL4fZP_zHjMs",
       "required": true,
       "value": ""
     },  
@@ -35,7 +35,7 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
+      "required": true,
       "value": "false"  
     },    
   
@@ -53,7 +53,7 @@
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
@@ -84,7 +84,7 @@
      }, 
 
     "BOT_NAME": {
-      "description": "Type here the bot name.",
+      "description": "0077",
       "required": false,
       "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
 
@@ -98,8 +98,8 @@
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
     
     "AUTO_RECORDING": {
@@ -110,14 +110,14 @@
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "CUSTOM_REACT": {
@@ -129,7 +129,7 @@
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
+      "required": true,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
