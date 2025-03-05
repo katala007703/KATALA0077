@@ -41,13 +41,13 @@
   
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
-      "required": false,
+      "required": true,
       "value": "false"
     }, 
 
@@ -91,7 +91,7 @@
       }, 
     
     "ALIVE_IMG": {
-      "description": "put here the bot Menu url if you don't have you can use this public url.",
+      "description": "menu",
       "required": true,
       "value": "https://cdn.ironman.my.id/i/2du3i5.jpg" 
       },
