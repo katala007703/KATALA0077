@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "6ZIDHCra#b3ZL5bCmU8quQwfl5en7Wo2eNgd_ydARL4fZP_zHjMs",
+      "description": "2UQhVA4B#BUnkkX1tBYUdkUOUXk1JjRkyF09FfhS7dE2XF8eX3G4",
       "required": true,
       "value": ""
     },  
@@ -35,7 +35,7 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": true,
+      "required": false,
       "value": "false"  
     },    
   
@@ -84,7 +84,7 @@
      }, 
 
     "BOT_NAME": {
-      "description": "0077",
+      "description": "00777",
       "required": false,
       "value": "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪"
 
